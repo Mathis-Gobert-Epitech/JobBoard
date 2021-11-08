@@ -15,7 +15,7 @@ A list of technologies used within the project:
 . Javascript .
 . MySql.
 . Phpmyadmin .
-. JQuerry .
+. JQuery .
 
 
 ## Project
@@ -29,13 +29,13 @@ A list of technologies used within the project:
 ***
 
 #### Node
-  sudo dnf install nodejs .
+  sudo apt install nodejs .
   
 #### MySql
-  sudo dnf install https://repo.mysql.com//mysql80-community-release-fc31-1.noarch.rpm .
+  sudo apt install https://repo.mysql.com//mysql80-community-release-fc31-1.noarch.rpm .
   
 #### PhpMyAdmin
-  sudo dnf install phpMyAdmin
+  sudo apt install phpMyAdmin
 
 ## Exécution
 ***
